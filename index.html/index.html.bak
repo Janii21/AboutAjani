@@ -1,0 +1,74 @@
+<!doctype html>
+
+
+<html>
+	<head>
+		<title> Ajani's Website</title>
+		<meta charset = "utf-8"></meta>
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<meta name = "Author" content = " Ajani Bryan" />
+		<meta name = "keywords" content = "HTML, Ajani,goal,mission"/>
+		<link rel = "shortcut icon" type = "image/jpg" href = "../Assets/images/lab1icon.jpg"/>
+	</head>
+<body background= "../Assets/images/splashback.jpg" style = "background-repeat: no-repeat; background-attachment:fixed; background-size: 100%; color:red"
+			a link= "red" vlink="red">
+		<table border="5" cellpadding = "10" cellspacing ="0" style="background-color: black">
+			<tr>
+				<th><a href = "index.html"><tt><strong>Main</strong></tt></a></th>
+				<th><a href = "../Lifestyle/Personal_page.html"><tt><strong>Personal</strong></tt></a></th>
+				<th><a href = "Developement_page.html"><tt><strong>Developement</strong></tt></a></th>
+				<th><a href = "../Professional/Prof.html"><tt><strong>Professional</strong></tt></a></th>
+			<tr/>
+		
+		<table/>
+		<hr/>
+		
+		<br/><br/>
+		<table border="5" cellpadding = "10" cellspacing ="0" style="background-color: black" align = "center">
+			<tr>
+				<th><h1>Welcome To My Website</h1></th>
+			<tr>
+		</table>
+		<hr/>
+		<br/><br/><br/>
+		<table border="5" cellspacing ="0" style="background-color: black">
+			<tr>
+				<td>
+					<p><strong>Hi My Name is Ajani Bryan</strong><br/>
+					This website will tell you about me</p>
+				</td>
+			</tr>
+		</table>
+		
+		
+		
+		<br/>
+		<a href = "mailto:jaaanniii.b@gmail.com?subject=Personal Website feedback">
+			<img border = "5" style= "border-color:red" src = "../Assets/images/linkimg.jpg" width = "300" height = "500"/>
+		</a>
+		<br/>
+		<strong>^Click to Email Me^</strong>
+		
+		
+		
+		
+		
+		<footer style = "color:black">
+			<br/>
+			<hr/>
+			Copyrighted &copy; Ajani Bryan, September 12, 2022
+		</footer>
+		
+	</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,77 @@
+<!doctype html>
+
+
+<html>
+	<head>
+		<title> Professional</title>
+		<meta charset = "utf-8"></meta>
+		<meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+		<meta name = "Author" content = " Ajani Bryan" />
+		<meta name = "keywords" content = "HTML, Ajani,goal,mission"/>
+		<link rel = "shortcut icon" type = "image/jpg" href = "../Assets/images/lab1icon.jpg"/>
+	</head>
+	<body background= "../Assets/images/personalback.jpg" style = "background-repeat: no-repeat; background-attachment:fixed; background-size: 100%; color:red"
+			a link= "red" vlink="red">
+		<table border="5" cellpadding = "10" cellspacing ="0" style="background-color: black">
+			<tr>
+				<th><a href = "../Splash Page/index.html"><tt><strong>Main</strong></tt></a></th>
+				<th><a href = "../Lifestyle/Personal_page.html"><tt><strong>Personal</strong></tt></a></th>
+				<th><a href = "../Personal Development/Developement_page.html"><tt><strong>Developement</strong></tt></a></th>
+				<th><a href = "Prof.html"><tt><strong>Professional</strong></tt></a></th>
+			<tr/>
+		
+		<table/>
+		<hr/>
+		
+		<table border="5" cellpadding = "10" cellspacing ="0" style="background-color: white" >
+			<tr>
+				<td>
+					<p style= "font-face:Monotype Corsiva; color:black" align ="center">
+															AJANI BRYAN <br/><br/>
+					513 Claremont Blvd Claremont Heights Old Harbour St. Catherine<br/> · 1-(871)-879-6255 Jaaanniii.b@gmail.com <br/> 
+					I am well-rounded individual who is able to adapt easily to any environment. I perform well under  pressure and I am focused on completing my task quickly and correctly. I love music and technology,  and I also have a great interest in the culinary arts.<br/><br/><br/>
+					EDUCATION <br/><br/>
+					2020-PRESENT <br/>
+					BACHELORS OF SCIENCE IN COMPUTING, UNIVERSTY OF TECHNOLOGY JAMAICA<br/> Completed Two years of study <br/><br/>
+
+					2019 <br/>
+					SCHOLASTIC APTITUDE TEST (SAT), AIM EDUCATIONAL SERVICES <br/>
+					OBTAINED A TOTAL SCORE OF 1110 <br/>
+					EVIDENCE-BASED READING AND WRITING SCORE – 570 <br/>
+					MATH SCORE- 540 <br/><br/>
+					 2014-2019 <br/>
+					CARIBBEAN SECONDARY EDUCATION CERTIFICATE (CSEC), KINGSTON COLLEGE <br/>
+					Mathematics – Grade I <br/>
+					English Language – Grade I <br/>
+					Technical Drawing – Grade II <br/>
+					Chemistry – Grade II <br/>
+					Physics – Grade II <br/>
+					Biology – Grade II <br/>
+					Information Technology - Grade II<br/>
+					Geography - II<br/>
+					Additional Mathematics – Grade III <br/>
+					Graduated high school with Honours<br/> <br/><br/>
+
+
+
+
+
+					ACTIVITIES <br/>
+					I took part in Swimming, Lacrosse and the Performing Arts club at Kingston College. I volunteered with  The Jamaica Horticultural Society in their annual flower show.<br/> 
+					</p>
+				<td/>
+			</tr>
+		</table>
+		
+		
+		
+		
+		
+		
+		<footer style = "color:black">
+			<br/>
+			<hr/>
+			Copyrighted &copy; Ajani Bryan, September 12, 2022
+		</footer>
+		
+	</body>
